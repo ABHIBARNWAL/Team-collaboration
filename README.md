@@ -1,2 +1,2 @@
 # Team-collaboration
-This is to team project
+This is use to demonstrate git.
